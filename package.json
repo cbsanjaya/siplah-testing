@@ -1,0 +1,12 @@
+{
+  "name": "siplah-testing",
+  "version": "0.1.0",
+  "description": "Testing Aplikasi Siplah",
+  "repository": "https://github.com/cbsanjaya/siplah-testing",
+  "author": "Cahya Bagus Sanjaya",
+  "license": "propertary",
+  "private": true,
+  "devDependencies": {
+    "cypress": "^3.4.1"
+  }
+}
